@@ -1,0 +1,5 @@
+Elemento HTML
+Abrindo a tag = <h1
+Atributo = class="titulo">
+Conteúdo = Título<
+Fechando a tag = /h1>
